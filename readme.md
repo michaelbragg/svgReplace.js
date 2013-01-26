@@ -1,6 +1,6 @@
 # svgReplace.js
 
-[Website](http://michaelbragg.github.com/svgReplace.js/)
+[Website](https://github.com/michaelbragg/svgReplace.js/)
 
 ## Description
 
@@ -10,12 +10,13 @@ Replace SVG's in HTML `img` element with a PNG of the same path / file name. svg
 
 * Internet Explorer 7
 * Internet Explorer 8
+* Android Browser 2.3.4
 
 ## Installation Instructions
 
 ### Requires
 
-* Modernizr
+* Modernizr (SVG Test)
 * jQuery 1.8.2+
 
 Simply include the JavaScript file in your HTML page.
