@@ -1,4 +1,4 @@
-/*! --  svgReplace.js  |  v. 0.1.0  Michael Bragg - http://michaelbragg.net  |  twitter: @michaelbragg  |  Last Updated: 08/01/2013  |  (c) 2013 Michael Bragg.  --  */
+/*! --  svgReplace.js  |  v. 0.1.0  https://github.com/michaelbragg/svgReplace.js  |  Last Updated: 26/01/2013  |  (c) 2013 Michael Bragg - http://michaelbragg.net  --  */
 
 if (!Modernizr.svg) {
   $.fn.svgReplace();
