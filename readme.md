@@ -22,7 +22,7 @@ Replace SVG's in HTML `img` element with a PNG of the same path / file name. svg
 Simply include the JavaScript file in your HTML page.
 
 ```
-&lt;script src="svgReplace.min.js"&gt;&lt;/script&gt;
+<script src="svgReplace.min.js"></script>
 ```
 And create PNG files with the same name inside the same directory as your SVG's
 
